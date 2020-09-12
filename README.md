@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=hybridherbst&count_private=true&show_icons=true" width="470px" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hybridherbst&layout=compact" width="332px" />
+</a>
+
+<!--
+<a href="https://github.com/sponsors/mob-sakai">
+  <img src="https://user-images.githubusercontent.com/12690315/88923009-f7642f00-d2ab-11ea-941b-038d6f62ad4d.png" />
+</a>
+-->
